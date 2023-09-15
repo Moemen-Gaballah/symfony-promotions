@@ -1,2 +1,0 @@
-# symfony-promotions
-Symfony Promotions

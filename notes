@@ -1,0 +1,6 @@
+* symfony new nameProject
+or install by composer
+composer create-project symfony/skeleton nameProject
+
+
+composer require --dev phpunit maker
